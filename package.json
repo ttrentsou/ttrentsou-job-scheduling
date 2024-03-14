@@ -1,0 +1,20 @@
+{
+  "name": "ttrentsou-job-scheduling",
+  "version": "1.0.0", 
+  "description": "A package that allows developers to schedule and manage recurring tasks within applications. This could include support for cron-like scheduling, task dependencies, and error handling.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ttrentsou/ttrentsou-job-scheduling.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "ttrentsou",
+  "license": "MIT"
+}
